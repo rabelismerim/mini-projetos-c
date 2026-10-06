@@ -1,0 +1,52 @@
+ENTRADAS:
+Loja 1
+Loja 2
+Loja 3
+Loja 4
+Loja 5
+Loja 6
+Loja 7
+Loja 8
+Teclado
+Mouse
+Monitor
+Headset
+99
+110
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+
+SAIDA:
+COMPARADOR DE PRECOS | 8 lojas, 4 produtos
+Nome da loja 1: Nome da loja 2: Nome da loja 3: Nome da loja 4: Nome da loja 5: Nome da loja 6: Nome da loja 7: Nome da loja 8: Nome do produto 1: Nome do produto 2: Nome do produto 3: Nome do produto 4: Teclado em Loja 1 (R$): Teclado em Loja 2 (R$): Teclado em Loja 3 (R$): Teclado em Loja 4 (R$): Teclado em Loja 5 (R$): Teclado em Loja 6 (R$): Teclado em Loja 7 (R$): Teclado em Loja 8 (R$): Mouse em Loja 1 (R$): Mouse em Loja 2 (R$): Mouse em Loja 3 (R$): Mouse em Loja 4 (R$): Mouse em Loja 5 (R$): Mouse em Loja 6 (R$): Mouse em Loja 7 (R$): Mouse em Loja 8 (R$): Monitor em Loja 1 (R$): Monitor em Loja 2 (R$): Monitor em Loja 3 (R$): Monitor em Loja 4 (R$): Monitor em Loja 5 (R$): Monitor em Loja 6 (R$): Monitor em Loja 7 (R$): Monitor em Loja 8 (R$): Headset em Loja 1 (R$): Headset em Loja 2 (R$): Headset em Loja 3 (R$): Headset em Loja 4 (R$): Headset em Loja 5 (R$): Headset em Loja 6 (R$): Headset em Loja 7 (R$): Headset em Loja 8 (R$): 
+OFERTAS ABAIXO DE R$ 120.00
+Teclado              | Loja 1               | R$ 99.00
+Teclado              | Loja 2               | R$ 110.00

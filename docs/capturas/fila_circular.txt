@@ -1,0 +1,35 @@
+ENTRADAS:
+1
+10
+1
+20
+2
+1
+30
+3
+4
+6
+
+SAIDA:
+FILA CIRCULAR (FIFO) | capacidade: 10
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Numero: Inserido: 10
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Numero: Inserido: 20
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Removido: 10
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Numero: Inserido: 30
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Primeiro: 20
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Elementos (2/10): 20 30
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Programa encerrado.

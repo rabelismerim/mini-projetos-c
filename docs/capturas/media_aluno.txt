@@ -1,0 +1,9 @@
+ENTRADAS:
+8
+7
+9
+
+SAIDA:
+BOLETIM DO ALUNO
+Nota 1 (0 a 10): Nota 2 (0 a 10): Nota 3 (0 a 10): Media: 8.00
+Situacao: Aprovado

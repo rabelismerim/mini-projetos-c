@@ -1,0 +1,9 @@
+ENTRADAS:
+12
+18
+
+SAIDA:
+COMPOSICAO DA TURMA
+Quantidade de homens: Quantidade de mulheres: Homens: 40.00%
+Mulheres: 60.00%
+Total: 30 alunos

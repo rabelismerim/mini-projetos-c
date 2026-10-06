@@ -1,0 +1,10 @@
+ENTRADAS:
+10
+20
+30
+9999
+
+SAIDA:
+MEDIA DE NUMEROS | 9999 encerra
+Numero: Numero: Numero: Numero: Quantidade: 3
+Media: 20.00

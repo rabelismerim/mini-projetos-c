@@ -1,0 +1,33 @@
+ENTRADAS:
+1
+2
+Mouse
+10
+1
+1
+Teclado
+5
+3
+2
+5
+
+SAIDA:
+CADASTRO DE VENDAS | persistencia em vendas.csv
+
+1 Cadastrar | 2 Listar | 3 Ordenar por nome | 5 Sair
+Opcao: Codigo: Nome (sem ponto e virgula): Quantidade: Produto salvo.
+
+1 Cadastrar | 2 Listar | 3 Ordenar por nome | 5 Sair
+Opcao: Codigo: Nome (sem ponto e virgula): Quantidade: Produto salvo.
+
+1 Cadastrar | 2 Listar | 3 Ordenar por nome | 5 Sair
+Opcao: Produtos ordenados por nome.
+
+1 Cadastrar | 2 Listar | 3 Ordenar por nome | 5 Sair
+Opcao: CODIGO | PRODUTO | QUANTIDADE
+2 | Mouse | 10
+1 | Teclado | 5
+Produtos: 2 | Unidades: 15
+
+1 Cadastrar | 2 Listar | 3 Ordenar por nome | 5 Sair
+Opcao: 

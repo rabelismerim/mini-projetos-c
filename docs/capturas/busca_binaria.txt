@@ -1,0 +1,12 @@
+ENTRADAS:
+5
+2
+4
+6
+8
+10
+8
+
+SAIDA:
+BUSCA BINARIA | vetor em ordem crescente
+Quantidade de elementos (1 a 100): Elemento 1: Elemento 2: Elemento 3: Elemento 4: Elemento 5: Numero a pesquisar: Encontrado na posicao 4 (indice 3).

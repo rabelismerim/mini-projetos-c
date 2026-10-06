@@ -1,0 +1,6 @@
+ENTRADAS:
+2000
+
+SAIDA:
+IDADE POR ANO DE NASCIMENTO
+Ano de nascimento: Idade que completa em 2026: 26 anos.

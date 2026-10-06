@@ -1,0 +1,17 @@
+ENTRADAS:
+4
+10
+5
+20
+7
+5
+12
+5
+0
+
+SAIDA:
+AUDIENCIA DE TV | canal 0 encerra
+Canal (4, 5, 7, 12): Pessoas assistindo: Canal (4, 5, 7, 12): Pessoas assistindo: Canal (4, 5, 7, 12): Pessoas assistindo: Canal (4, 5, 7, 12): Pessoas assistindo: Canal (4, 5, 7, 12): Canal  4:  25.00% (10 pessoas)
+Canal  5:  50.00% (20 pessoas)
+Canal  7:  12.50% (5 pessoas)
+Canal 12:  12.50% (5 pessoas)

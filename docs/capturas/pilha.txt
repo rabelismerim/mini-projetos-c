@@ -1,0 +1,38 @@
+ENTRADAS:
+1
+10
+1
+20
+3
+2
+4
+5
+3
+6
+
+SAIDA:
+PILHA (LIFO) | capacidade: 10
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Numero: Inserido: 10
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Numero: Inserido: 20
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Topo: 20
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Removido: 20
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Elementos (1/10): 10
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Estrutura esvaziada.
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Estrutura vazia.
+
+1 Inserir | 2 Remover | 3 Consultar | 4 Listar | 5 Esvaziar | 6 Sair
+Opcao: Programa encerrado.
